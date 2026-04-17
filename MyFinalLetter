@@ -37,7 +37,31 @@ I made these into Unique symbols in symbology to visualize the count and locatio
 Up to here will be uploaded as FinalProjectCleaning1
 You will also need to download the File called "Filefor_FinalProjectCleaning1" So you can get the same geodatabases and other stuff i'm pretty sure
 
-BREAK ----------------------------------------------------------------------------------------------------------------
+BREAK IN SAVED DATA ----------------------------------------------------------------------------------------------------------------
+
+After this I created a Buffer around each Lamp post of 52.5 feet, which was the distance for how far a 35ft lamp post would reach with still visible light according to google.
+
+I then selected by location input: CrimeAtNight Relationship: Within
+Selecting Features: StreetLightsBuffer52_5
+
+To find which and how many of the crimes fall within a buffer area, which is 8,891 of 13,209 total night crimes. This can also be done using a spatial join to fulfil that need if we need even. Also 4,318 crimes not within a street lamp buffer
+
+Tools used: 
+Select By Attributes
+Export Features
+Near
+Add Field + Field Calculator
+Symbology
+Buffer
+***** Didn't do spatial join but technically could
+
+From here we have to draw conclusions and mention setbacks
+
+Conclusions: While yes we found more crime happening near streetlamps proportionally, we have to think of where people in DC live and how much percentage of DC is truly lit up by streetlamps at night. Still, 4,318 crimes were committed not under a street lamp, which is 32.69% of all night time crimes. 
+
+So do street lamps deter crime, promote it, or what
+
+
 
 
 
