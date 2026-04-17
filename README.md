@@ -35,6 +35,7 @@ So, I am setting parameters "Very Close" to about 15 feet. "Moderately Close" fr
 I made these into Unique symbols in symbology to visualize the count and location of where the crime at night is taking place and proximity to an active street light. I find the yellow to be challenging to see but can't think of another good color to use.
 
 Up to here will be uploaded as FinalProjectCleaning1
+You will also need to download the File called "Filefor_FinalProjectCleaning1" So you can get the same geodatabases and other stuff i'm pretty sure
 
 BREAK ----------------------------------------------------------------------------------------------------------------
 
